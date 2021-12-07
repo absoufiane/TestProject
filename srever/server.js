@@ -11,6 +11,11 @@ export class server extends Component {
                     <li>v</li>
                     <li>b</li>
                 </ol>
+                <div className="container">
+                    <div className="row">
+                        <h2>My name <strong>Soufiane</strong></h2>
+                    </div>
+                </div>
             </div>
         )
     }
