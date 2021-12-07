@@ -5,11 +5,12 @@ export class server extends Component {
         return (
             <div>
                 <h1>Hello World !!</h1>
-            <h1>Hello World !!</h1>
-            <h1>Hello World !!</h1>
-            <h1>Hello World !!</h1>
-            <h1>Hello World !!</h1><h1>Hello World !!</h1>
-            <h1>Hello World !!</h1>
+                <ol>
+                    <li>a</li>
+                    <li>z</li>
+                    <li>v</li>
+                    <li>b</li>
+                </ol>
             </div>
         )
     }
